@@ -1,0 +1,21 @@
+#pragma once
+
+// Bloodhunt (1.X) SDK
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+#include "Basic.hpp"
+#include "TBP_UI_Social_PlayerCardBase_classes.hpp"
+#include "Shark_classes.hpp"
+#include "Engine_classes.hpp"
+#include "TigerCore_classes.hpp"
+
+namespace SDK
+{
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
